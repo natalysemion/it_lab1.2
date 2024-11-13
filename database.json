@@ -1,0 +1,25 @@
+{
+    "Users": {
+        "columns": [
+            [
+                "ID",
+                "int"
+            ],
+            [
+                "Name",
+                "str"
+            ],
+            [
+                "Age",
+                "int"
+            ]
+        ],
+        "rows": [
+            [
+                1,
+                "John Smith",
+                31
+            ]
+        ]
+    }
+}
